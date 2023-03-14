@@ -1,0 +1,25 @@
+// mario's images
+o idleLeft.png
+o idleRight.png
+s runningLeft.png 3
+s runningRight.png 3
+o jumpLeft.png
+o jumpRight.png
+o die.png
+
+// scenery images
+o map.png
+
+// enemy's images
+s goomba.png 2
+o goombaDie.png
+
+// block's images
+o redBrick.png
+o itemBrick.png
+o emptyBrick.png
+o pipe.png
+
+// user interface images
+o title.png
+o marioIcon.png
