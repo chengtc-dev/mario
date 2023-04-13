@@ -2,13 +2,13 @@
 
 >This is the midterm project for <a href="https://www.ispan.com.tw/longterm/JJEEITT">Cross Platform Application Development in Java, Institute for Information Industry</a>.
 
-  ![game](https://user-images.githubusercontent.com/91156531/218771367-5cbc3d90-2b9e-433c-b73e-d90ecaf6469e.jpeg)
+  ![giphy](https://user-images.githubusercontent.com/91156531/231737865-3fd09da6-bd19-4b89-b3b8-c2763fd03073.gif)
 
 ## Technologies
 
 * Java SE
 * JDBC
-* MySQL (MAMP)
+* MySQL
 
 ## Screen Shot
 
