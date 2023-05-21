@@ -1,6 +1,6 @@
 # mario
 
->This is the midterm project for <a href="https://www.ispan.com.tw/longterm/JJEEITT">Cross Platform Application Development in Java, Institute for Information Industry</a>.
+>Paying Tribute to the Classic Game Super Mario Bros.</a>.
 
   ![giphy](https://user-images.githubusercontent.com/91156531/231737865-3fd09da6-bd19-4b89-b3b8-c2763fd03073.gif)
 
